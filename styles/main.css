@@ -334,6 +334,26 @@ main > section.maintenance-staff > div {
   box-shadow: inset 0px 0px 50px 2px #000;
 }
 
+main > section.maintenance-staff > div.darrel {
+  background-image: url("/images/staff/darrel.png");
+}
+
+main > section.maintenance-staff > div.corbin {
+  background-image: url("/images/staff/corbin.png");
+}
+
+main > section.maintenance-staff > div.jake {
+
+}
+
+main > section.maintenance-staff > div.mike {
+  background-image: url("/images/staff/mike.png");
+}
+
+main > section.maintenance-staff > div.cecil {
+  background-image: url("/images/staff/cecil.png");
+}
+
 main > section.biolist.maintenance-staff > div header {
   position: absolute;
   bottom: 0;
