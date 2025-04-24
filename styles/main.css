@@ -343,7 +343,7 @@ main > section.maintenance-staff > div.corbin {
 }
 
 main > section.maintenance-staff > div.jake {
-
+  background-image: url("/images/staff/jake.png");
 }
 
 main > section.maintenance-staff > div.mike {
@@ -352,6 +352,10 @@ main > section.maintenance-staff > div.mike {
 
 main > section.maintenance-staff > div.cecil {
   background-image: url("/images/staff/cecil.png");
+}
+
+main > section.maintenance-staff > div.nathan {
+  background-image: url("/images/staff/nathan.png");
 }
 
 main > section.biolist.maintenance-staff > div header {
