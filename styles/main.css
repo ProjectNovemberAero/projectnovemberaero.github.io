@@ -358,6 +358,10 @@ main > section.maintenance-staff > div.nathan {
   background-image: url("/images/staff/nathan.png");
 }
 
+main > section.maintenance-staff > div.max {
+  background-image: url("/images/staff/max.png");
+}
+
 main > section.biolist.maintenance-staff > div header {
   position: absolute;
   bottom: 0;
