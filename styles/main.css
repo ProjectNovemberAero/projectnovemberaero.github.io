@@ -606,6 +606,10 @@ main > section.gallery {
   max-width: 90%;
 }
 
+.batdelite, main > .hero > .gallery.batdelite {
+  background-image: url("/images/batd/hero.png");
+}
+
 .n29239, main > .hero > .gallery.n29239 {
   background-image: url("/images/n29239/n29239.png");
 }
