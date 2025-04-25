@@ -71,7 +71,7 @@
     padding: 0.5em 2em;
   }
 
-  main > section.aircraft-details .manuals {
+  main .manuals, main > section.student-renter-resources {
     display: block;
   }
 

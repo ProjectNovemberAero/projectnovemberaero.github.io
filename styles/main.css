@@ -596,18 +596,18 @@ main > section.aircraft-details {
   max-width: 66%;
 }
 
-main > section.aircraft-details .manuals {
+main .manuals {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 2em;
 }
 
-main > section.aircraft-details .manuals > div {
+main .manuals > div {
   margin-top: 1em;
   text-align: center;
 }
 
-main > section.aircraft-details .manuals > div a {
+main .manuals > div a {
   border: 1px solid white;
   padding: 0.5em;
   border-radius: 0.25em;
