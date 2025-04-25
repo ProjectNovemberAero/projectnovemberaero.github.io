@@ -213,6 +213,10 @@ main > .hero > .gallery.about {
   background-image: url("/images/about/gibsonfamily.jpg");
 }
 
+main > .hero > .gallery.flightresources {
+  background-image: url("/images/flightresources/hero.png");
+}
+
 main > .hero > .cta {
   position: absolute;
   bottom: 0;
@@ -617,6 +621,22 @@ main > section.aircraft-details > div > div {
 
 main > section.aircraft-spotlight {
   margin: 3em 3em;
+}
+
+/*
+
+  Students and Renters Page
+
+*/
+
+main > section.student-renter-resources {
+  display: grid;
+  grid-gap: 1em;
+  grid-template-columns: auto minmax(150px, 450px);
+}
+
+main > section.student-renter-resources .stripe {
+  text-align: left;
 }
 
 /*
