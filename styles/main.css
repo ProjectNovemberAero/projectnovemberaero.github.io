@@ -425,6 +425,21 @@ main > section.rentals > div {
   box-shadow: inset 0px 0px 40px 10px #000; 
 }
 
+main > section.rentals a {
+  padding: 1em 0;
+}
+
+main > section.rentals header h5 {
+  margin-bottom: 0.75em;
+}
+
+main > section.rentals header small {
+  color: white;
+  background-color: rgb(162,42,51);
+  border-radius: 0.25em;
+  padding: 0.33em 0.6em;
+}
+
 main > section.rentals > div > div {
   height: 100%;
   background-color: rgba(0,0,0,0.5);
