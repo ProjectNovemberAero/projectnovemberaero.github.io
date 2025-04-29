@@ -1,3 +1,5 @@
+window.dataLayer = window.dataLayer || [];
+
 function scrollToAnchor(section) {
   const target = document.getElementById(section);
   const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - 50;
@@ -20,4 +22,16 @@ function loadGalleryModalElements() {
   });
 }
 
+function gtag() {
+  dataLayer.push(arguments);
+}
+
+
 loadGalleryModalElements();
+
+var analyticstag = document.createElement('script');
+analyticstag.setAttribute('src','https://www.googletagmanager.com/gtag/js?id=G-PRTWKXXMGP');
+document.head.appendChild(analyticstag);
+
+gtag('js', new Date());
+gtag('config', 'G-PRTWKXXMGP');
