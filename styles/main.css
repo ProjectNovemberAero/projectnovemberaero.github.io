@@ -74,6 +74,11 @@ span.red {
   margin: 2em 3em;
 }
 
+.indent {
+  margin-left: 1em;
+  padding: 0;
+}
+
 .icon.social {
   font-size: 150%;
 }
@@ -518,6 +523,62 @@ main > section.stripe.shop-rate-stripe {
   font-size: 80%;
   margin-top: 5em;
   margin-bottom: 3em;
+}
+
+main > section.shop-services {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1em;
+  color: white;
+  position: relative;
+  margin-bottom: 3em;
+}
+
+main > section.shop-services > div {
+  background-color: rgb(162,42,51);
+  padding: 0.9em 0.75em;
+  position: relative;
+  min-height: 200px;
+}
+
+main > section.shop-services header {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+main > section.shop-services header .icon {
+  font-size: 170%;
+  margin-bottom: 0.75em;
+}
+
+main > section.shop-services h5 {
+  font-weight: 400;
+  font-size: 130%;
+}
+
+main > section.shop-services .fixed-rate-price:last-of-type {
+  padding-bottom: 1em;
+}
+
+main > section.shop-services .fixed-rate-price p {
+  font-size: 130%;
+  font-weight: 500;
+  margin: 0;
+  padding: 0.1em 0;
+}
+
+main > section.shop-services .fixed-rate-price sub {
+  font-weight: 400;
+  font-size: 70%;
+}
+
+main > section.shop-services .footnote {
+  font-size: 85%;
+  font-style: italic;
+  position: absolute;
+  width: 90%;
+  bottom: 0;
+  text-align: center;
 }
 
 footer {
