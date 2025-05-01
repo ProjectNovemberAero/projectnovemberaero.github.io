@@ -214,7 +214,6 @@ main > .hero > .gallery {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("/images/n5267q/n5267q.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -766,7 +765,7 @@ main > section.gallery {
 }
 
 .n5267q, main > .hero > .gallery.n5267q {
-  background-image: url("/images/n5267q/n5267q.webp");
+  background-image: url("/images/n5267q/n5267q-mobile.webp");
 }
 
 .n75866, main > .hero > .gallery.n75866 {

@@ -6,9 +6,14 @@
   1200
 */
 
+
 @media all and (max-width: 768px) {
   h2 {
     text-align: center;
+  }
+
+  main > .hero > .gallery {
+    background-image: url("/images/n5267q/n5267q-mobile.webp");
   }
 
   main > .hero > .cta {
@@ -35,6 +40,10 @@
 @media all and (min-width: 768px) {
   main > section.stripe:not(.centered) {
     text-align: left;
+  }
+
+  main > .hero > .gallery {
+    background-image: url("/images/n5267q/n5267q.webp");
   }
 
   section.stripe.red {
