@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
   <loc>https://gibsonaviation.com/</loc>
   <lastmod>2025-04-30T21:38:56+00:00</lastmod>
   <priority>1.00</priority>
+  <image:image>
+    <image:loc>https://gibsonaviation.com/images/n5267q/n5267q.png</image:loc>
+  </image:image>
+  <image:image>
+    <image:loc>https://gibsonaviation.com/images/n12919/n12919.jpeg</image:loc>
+  </image:image>
+  <image:image>
+    <image:loc>https://gibsonaviation.com/images/n75866/n75866.png</image:loc>
+  </image:image>
+  <image:image>
+    <image:loc>https://gibsonaviation.com/images/n29239/n29239.png</image:loc>
+  </image:image>
+  <image:image>
+    <image:loc>https://gibsonaviation.com/images/n104fs/n104FS.jpeg</image:loc>
+  </image:image>
 </url>
 <url>
   <loc>https://gibsonaviation.com/#flight-training</loc>
