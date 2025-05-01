@@ -1,0 +1,1 @@
+for FILE in *; do cwebp -q 50 $FILE -o $(basename $FILE .png).webp; done

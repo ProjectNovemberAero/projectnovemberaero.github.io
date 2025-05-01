@@ -214,7 +214,7 @@ main > .hero > .gallery {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("/images/n5267q/n5267q.png");
+  background-image: url("/images/n5267q/n5267q.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -223,15 +223,15 @@ main > .hero > .gallery {
 }
 
 main > .hero > .gallery.avionics {
-  background-image: url("/images/avionics/hero.jpeg");
+  background-image: url("/images/avionics/hero.webp");
 }
 
 main > .hero > .gallery.about {
-  background-image: url("/images/about/gibsonfamily.jpg");
+  background-image: url("/images/about/gibsonfamily.webp");
 }
 
 main > .hero > .gallery.flightresources {
-  background-image: url("/images/flightresources/hero.png");
+  background-image: url("/images/flightresources/hero.webp");
 }
 
 main > .hero > .cta {
@@ -276,15 +276,15 @@ main > .stripe.flight-training > div > div {
 }
 
 main > .stripe.flight-training .instrument {
-  background-image: url("/images/landingpage/instrument.png");
+  background-image: url("/images/landingpage/instrument.webp");
 }
 
 main > .stripe.flight-training .private {
-  background-image: url("/images/landingpage/private.png");
+  background-image: url("/images/landingpage/private.webp");
 }
 
 main > .stripe.flight-training .commercial {
-  background-image: url("/images/landingpage/commercial.png");
+  background-image: url("/images/landingpage/commercial.webp");
 }
 
 main > .stripe.rentals-stripe, main > .stripe.instructors-stripe {
@@ -348,7 +348,7 @@ main > section.maintenance-staff > div {
   background-color: rgb(162,42,51);
   padding: 0.25em 0;
   */
-  background-image: url("/images/instructors/cfiplaceholder.jpg");
+  background-image: url("/images/instructors/cfiplaceholder.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -356,31 +356,31 @@ main > section.maintenance-staff > div {
 }
 
 main > section.maintenance-staff > div.darrel {
-  background-image: url("/images/staff/darrel.png");
+  background-image: url("/images/staff/darrel.webp");
 }
 
 main > section.maintenance-staff > div.corbin {
-  background-image: url("/images/staff/corbin.png");
+  background-image: url("/images/staff/corbin.webp");
 }
 
 main > section.maintenance-staff > div.jake {
-  background-image: url("/images/staff/jake.png");
+  background-image: url("/images/staff/jake.webp");
 }
 
 main > section.maintenance-staff > div.mike {
-  background-image: url("/images/staff/mike.png");
+  background-image: url("/images/staff/mike.webp");
 }
 
 main > section.maintenance-staff > div.cecil {
-  background-image: url("/images/staff/cecil.png");
+  background-image: url("/images/staff/cecil.webp");
 }
 
 main > section.maintenance-staff > div.nathan {
-  background-image: url("/images/staff/nathan.png");
+  background-image: url("/images/staff/nathan.webp");
 }
 
 main > section.maintenance-staff > div.max {
-  background-image: url("/images/staff/max.png");
+  background-image: url("/images/staff/max.webp");
 }
 
 main > section.biolist.maintenance-staff > div header {
@@ -652,7 +652,7 @@ footer h3 {
 
 .gallery > .see-more {
   background: gray;
-  background-image: url("/images/avionicspanel-1.jpeg");
+  background-image: url("/images/avionicspanel-1.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -750,27 +750,27 @@ main > section.gallery {
 }
 
 .batdelite, main > .hero > .gallery.batdelite {
-  background-image: url("/images/batd/hero.png");
+  background-image: url("/images/batd/hero.webp");
 }
 
 .n29239, main > .hero > .gallery.n29239 {
-  background-image: url("/images/n29239/n29239.png");
+  background-image: url("/images/n29239/n29239.webp");
 }
 
 .n104fs, main > .hero > .gallery.n104fs {
-  background-image: url("/images/n104fs/n104FS.jpeg");
+  background-image: url("/images/n104fs/n104FS.webp");
 }
 
 .n12919, main > .hero > .gallery.n12919 {
-  background-image: url("/images/n12919/n12919.jpeg");
+  background-image: url("/images/n12919/n12919.webp");
 }
 
 .n5267q, main > .hero > .gallery.n5267q {
-  background-image: url("/images/n5267q/n5267q.png");
+  background-image: url("/images/n5267q/n5267q.webp");
 }
 
 .n75866, main > .hero > .gallery.n75866 {
-  background-image: url("/images/n75866/n75866.png");
+  background-image: url("/images/n75866/n75866.webp");
 }
 
 /*
