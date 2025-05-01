@@ -382,6 +382,10 @@ main > section.maintenance-staff > div.max {
   background-image: url("/images/staff/max.webp");
 }
 
+main > section.maintenance-staff > div.tyler {
+  background-image: url("/images/staff/tyler.webp");
+}
+
 main > section.biolist.maintenance-staff > div header {
   position: absolute;
   bottom: 0;
