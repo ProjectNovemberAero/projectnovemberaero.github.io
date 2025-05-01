@@ -1,11 +1,5 @@
 window.dataLayer = window.dataLayer || [];
 
-function scrollToAnchor(section) {
-  const target = document.getElementById(section);
-  const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - 50;
-  window.scrollTo({ top: targetPosition, behavior: 'smooth'});
-}
-
 function loadGalleryModalElements() {
   var modal = document.getElementById("gallery-modal");
   var modalClose = document.getElementById("gallery-modal-close");
