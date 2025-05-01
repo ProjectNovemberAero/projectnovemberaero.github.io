@@ -207,7 +207,7 @@ main > .hero {
   position: relative;
   min-height: 66vh;
   background-color: rgba(0,0,0);
-  margin-bottom: 10em;
+  margin-bottom: 12em;
 }
 
 main > .hero > .gallery {
