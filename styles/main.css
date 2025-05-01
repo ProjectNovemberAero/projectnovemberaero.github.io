@@ -90,6 +90,16 @@ span.red {
   padding-right: 0.25em;
 }
 
+.icon-text-split {
+  display: grid;
+  grid-template-columns: 25px auto;
+}
+
+.icon-text-split > span.icon {
+  margin: auto;
+  font-size: 140%;
+}
+
 section.stripe {
   position: relative;
   margin: 0.5em 2em;
@@ -523,6 +533,11 @@ footer {
 footer > div:first-of-type {
   display: grid;
   grid-template-columns: 1fr 2fr;
+}
+
+footer > div:last-of-type {
+  text-align: center;
+  grid-column: span 3;
 }
 
 footer > div, footer > div:first-of-type > div {

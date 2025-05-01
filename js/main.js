@@ -29,3 +29,8 @@ document.head.appendChild(analyticstag);
 
 gtag('js', new Date());
 gtag('config', 'G-PRTWKXXMGP');
+
+var footerYearTag = window.document.getElementById('year');
+if (footerYearTag) {
+  footerYearTag.innerHTML = (new Date()).getFullYear();
+}

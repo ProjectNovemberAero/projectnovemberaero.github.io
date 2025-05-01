@@ -49,6 +49,10 @@
     max-width: 100%;
   }
 
+  .icon-text-split {
+    display: block;
+  }
+
   body > header {
     display: block !important;
     height: auto;
