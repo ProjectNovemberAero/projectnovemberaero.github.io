@@ -25,6 +25,7 @@ loadGalleryModalElements();
 
 var analyticstag = document.createElement('script');
 analyticstag.setAttribute('src','https://www.googletagmanager.com/gtag/js?id=G-PRTWKXXMGP');
+analyticstag.setAttribute('async',true);
 document.head.appendChild(analyticstag);
 
 gtag('js', new Date());
