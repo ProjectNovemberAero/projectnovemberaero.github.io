@@ -3,7 +3,7 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
   <loc>https://gibsonaviation.com/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>1.00</priority>
   <image:image>
     <image:loc>https://gibsonaviation.com/images/n5267q/n5267q.webp</image:loc>
@@ -23,62 +23,67 @@
 </url>
 <url>
   <loc>https://gibsonaviation.com/#flight-training</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/#rentals</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/#maintenance</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/flightresources/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/about/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/aircraft/batd/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/aircraft/n5267q/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/aircraft/n12919/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/aircraft/n75866/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/aircraft/n29239/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/aircraft/n104fs/</loc>
-  <lastmod>2025-04-30T21:38:56+00:00</lastmod>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://gibsonaviation.com/avionics/</loc>
   <lastmod>2025-04-30T21:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gibsonaviation.com/service/</loc>
+  <lastmod>2025-05-05T21:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>

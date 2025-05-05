@@ -105,6 +105,12 @@ span.red {
   font-size: 140%;
 }
 
+.gallery.split {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 160px));
+  grid-gap: 1em;
+}
+
 section.stripe {
   position: relative;
   margin: 0.5em 2em;
@@ -231,6 +237,14 @@ main > .hero > .gallery.about {
 
 main > .hero > .gallery.flightresources {
   background-image: url("/images/flightresources/hero.webp");
+}
+
+main > .hero > .gallery.services {
+  background-image: url("/images/n8971v/n8971v.webp");
+}
+
+main > .hero > .gallery.privatepilot {
+  background-image: url("/images/n12919/enroute.webp");
 }
 
 main > .hero > .cta {
@@ -528,7 +542,7 @@ main > section.stripe.shop-rate-stripe {
   margin-bottom: 3em;
 }
 
-main > section.shop-services {
+main section.shop-services {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 1em;
@@ -537,45 +551,45 @@ main > section.shop-services {
   margin-bottom: 3em;
 }
 
-main > section.shop-services > div {
-  background-color: rgb(162,42,51);
+main section.shop-services > div {
+  border: 3px solid rgb(162,42,51);
   padding: 0.9em 0.75em;
   position: relative;
   min-height: 200px;
 }
 
-main > section.shop-services header {
+main section.shop-services header {
   text-align: center;
   margin-bottom: 1em;
 }
 
-main > section.shop-services header .icon {
+main section.shop-services header .icon {
   font-size: 170%;
   margin-bottom: 0.75em;
 }
 
-main > section.shop-services h5 {
+main section.shop-services h3 {
   font-weight: 400;
   font-size: 130%;
 }
 
-main > section.shop-services .fixed-rate-price:last-of-type {
+main section.shop-services .fixed-rate-price:last-of-type {
   padding-bottom: 1em;
 }
 
-main > section.shop-services .fixed-rate-price p {
+main section.shop-services .fixed-rate-price p {
   font-size: 130%;
   font-weight: 500;
   margin: 0;
   padding: 0.1em 0;
 }
 
-main > section.shop-services .fixed-rate-price sub {
+main section.shop-services .fixed-rate-price sub {
   font-weight: 400;
   font-size: 70%;
 }
 
-main > section.shop-services .footnote {
+main section.shop-services .footnote {
   font-size: 85%;
   font-style: italic;
   position: absolute;
@@ -727,7 +741,7 @@ main > section.aircraft-spotlight {
 
 */
 
-main > section.student-renter-resources {
+main > section.content-gallery, main > section.student-renter-resources  {
   display: grid;
   grid-gap: 1em;
   grid-template-columns: auto minmax(150px, 450px);

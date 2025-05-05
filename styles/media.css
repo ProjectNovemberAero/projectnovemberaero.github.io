@@ -84,14 +84,14 @@
     padding: 0.5em 2em;
   }
 
-  main .manuals, main > section.student-renter-resources {
+  main .manuals, main > section.student-renter-resources, main > section.content-gallery {
     display: block;
   }
 
   footer, footer > div:first-of-type {
     display: block;
     text-align: center;
-    width: 100%.
+    width: 100%;
   }
 
   footer > div {
