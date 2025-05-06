@@ -27,6 +27,15 @@
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr))
   }
 
+  main > section.biolist.instructors {
+    padding: 0;
+    grid-gap: 0.33em;
+  }
+
+  main > section.rentals {
+    padding: 0 1em;
+  }
+
   .image-desc-split {
     display: block;
     text-align: center;
