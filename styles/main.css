@@ -79,11 +79,11 @@ span.red {
 }
 
 .btn-outline {
-  margin-top: 1.5em;
-  padding: 0.33em 1em;
+  padding: 0.5em 1em;
   border-radius: 0.33em;
-  background-color: rgba(0,0,0,0.7);
-  border: 1px solid rgba(162,42,51,0.5);
+  background-color: rgba(0,0,0,0.8);
+  border: 2px solid rgba(162,42,51,0.5);
+  display: block;
 }
 
 .content {
@@ -288,6 +288,12 @@ main > .hero > .cta.darker {
 main > .hero > .cta > .cta-action {
   padding: 1em 0;
 }
+
+.bottom-cta {
+  margin: 2em auto 0 auto;
+  width: 66%;
+}
+
 
 main > .stripe.flight-training {
   display: grid;
