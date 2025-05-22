@@ -853,6 +853,10 @@ main > section.gallery {
   background-image: url("/images/n75866/n75866.webp");
 }
 
+.n8971v, main > .hero > .gallery.n8971v {
+  background-image: url("/images/n8971v/n8971v.webp");
+}
+
 /*
 
   Modal
