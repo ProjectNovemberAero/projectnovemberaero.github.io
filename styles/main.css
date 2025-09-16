@@ -191,6 +191,11 @@ section.stripe header:after {
   transform: translate(-50%, 0%);
 }
 
+section.stripe.training-cta p {
+  padding: 1em 0;
+  font-size: 110%;
+}
+
 body > header {
   position: static;
   top: 0;
