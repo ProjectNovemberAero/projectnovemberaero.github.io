@@ -301,9 +301,9 @@ main > .hero > .cta > .cta-action {
 
 
 main > .stripe.flight-training {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
   margin-top: 2em;
   text-align: center;
@@ -315,6 +315,10 @@ main > .stripe.flight-training h3 {
 }
 
 main > .stripe.flight-training > div {
+  flex: 1;
+  display: flex;
+  margin: 0 1em;
+  min-width: 350px;
   box-shadow: inset 0px 0px 50px 14px #000;
   background-repeat: no-repeat;
   background-position: center;
@@ -323,6 +327,7 @@ main > .stripe.flight-training > div {
 
 main > .stripe.flight-training > div > div {
   height: 100%;
+  width: 100%;
   background-color: rgba(0,0,0,0.66);
   padding: 3em 2em;
 }
@@ -337,6 +342,14 @@ main > .stripe.flight-training .private {
 
 main > .stripe.flight-training .commercial {
   background-image: url("/images/landingpage/commercial.webp");
+}
+
+main > .stripe.flight-training .personal {
+  background-image: url("/images/landingpage/personal.webp");
+}
+
+main > .stripe.flight-training .sport {
+  background-image: url("/images/n104fs/approach.webp");
 }
 
 main > .stripe.rentals-stripe, main > .stripe.instructors-stripe {
