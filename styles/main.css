@@ -547,6 +547,23 @@ main > section.rentals a:hover {
   transition: all 0.1s linear;
 }
 
+main > section.maintenance .maintenance-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-gap: 1em;
+}
+
+main > section.maintenance ul {
+  list-style-type: none;
+  margin: 0 2em 0 0;
+}
+
+main > section.maintenance .maintenance-list li {
+  padding: 0.5em 0.5em;
+  text-align: center;
+  background-color: #313131;
+}
+
 main > section.maintenance {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
@@ -568,12 +585,6 @@ main > section.maintenance p {
   text-align: left;
   margin: 0 2em;
   margin-bottom: 1em;
-}
-
-main > section.maintenance ul {
-  margin: 1em 0 0 5%;
-  list-style-type: none;
-  text-align: left;
 }
 
 main > section.maintenance .avionics-gallery, main .aircraft-gallery, main .simple-gallery {
