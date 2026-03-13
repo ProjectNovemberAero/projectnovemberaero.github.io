@@ -268,6 +268,10 @@ main > .hero > .gallery.privatepilot {
   background-image: url("/images/training/private/msp.webp");
 }
 
+main > .hero > .gallery.sportpilot {
+  background-image: url("/images/n5267q/front.webp");
+}
+
 main > .hero > .gallery.instrument {
   background-image: url("/images/training/instrument/hero.webp");
 }
